@@ -1,2 +1,3 @@
 # LC-web-business
 Just a startup website...
+It is also linked to my portfolio website.
